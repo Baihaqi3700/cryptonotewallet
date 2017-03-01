@@ -1,4 +1,4 @@
-**1. Clone wallet sources**
+**1. Clone wallet sources 123**
 
 ```
 git clone https://github.com/cryptonotefoundation/cryptonotewallet.git
